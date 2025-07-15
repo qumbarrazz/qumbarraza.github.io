@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qumbar-raza/static/css/main.e52f97b1.css",
+    "main.js": "/qumbar-raza/static/js/main.a72f9d4d.js",
+    "static/js/453.d7928a88.chunk.js": "/qumbar-raza/static/js/453.d7928a88.chunk.js",
+    "index.html": "/qumbar-raza/index.html",
+    "main.e52f97b1.css.map": "/qumbar-raza/static/css/main.e52f97b1.css.map",
+    "main.a72f9d4d.js.map": "/qumbar-raza/static/js/main.a72f9d4d.js.map",
+    "453.d7928a88.chunk.js.map": "/qumbar-raza/static/js/453.d7928a88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e52f97b1.css",
+    "static/js/main.a72f9d4d.js"
+  ]
+}
